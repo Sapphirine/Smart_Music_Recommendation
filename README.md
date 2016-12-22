@@ -9,6 +9,10 @@ ll3057@columbia.edu, sc4097@columbia.edu, cs3488@columbia.edu
 
 Files Description:
 
+Data Pretreatment:
+
+    /data_pretreatment
+
 Website:
 
     /static/*
