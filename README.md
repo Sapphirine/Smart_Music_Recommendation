@@ -11,7 +11,7 @@ Files Description:
 
 Data Pretreatment:
 
-    /data_pretreatment
+    /data_pretreatment/*
 
 Website:
 
