@@ -8,18 +8,33 @@ Email:
 ll3057@columbia.edu, sc4097@columbia.edu, cs3488@columbia.edu
 
 Files Description:
+
 Website:
-  /static/*
-  /templates/*
+
+    /static/*
+  
+    /templates/*
+  
 Web Server with Spark:
-  musicshuffleserver.py
-  app.py
-  engine.py
-  masterslave.py
-  slaveserver.py
+
+    musicshuffleserver.py
+  
+    app.py
+  
+    engine.py
+  
+    masterslave.py
+  
+    slaveserver.py
+
 scripts on server:
-  start_server.sh
+
+    start_server.sh
+
 sample files on server:
-  user_new_ratings.file
+
+    user_new_ratings.file
+
 MySQL dumps:
-  (Not included here.)
+
+    (Not included here.)
